@@ -213,6 +213,7 @@ So much thanks to neuralnine and his contribution:
  - JSON Tutorial
  - Live Object Detection
  - Stock Option Screener
+ - Serialization With Pickle
 
 ## codewars
 ### Source Code List
