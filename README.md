@@ -214,6 +214,7 @@ So much thanks to neuralnine and his contribution:
  - Live Object Detection
  - Stock Option Screener
  - Serialization With Pickle
+ - Telegram Bot
 
 ## codewars
 ### Source Code List
