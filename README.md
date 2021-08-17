@@ -215,6 +215,7 @@ So much thanks to neuralnine and his contribution:
  - Stock Option Screener
  - Serialization With Pickle
  - Telegram Bot
+ - Portfolio Diversification Analysis
 
 ## codewars
 ### Source Code List
