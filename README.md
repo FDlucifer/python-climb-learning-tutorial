@@ -216,6 +216,7 @@ So much thanks to neuralnine and his contribution:
  - Serialization With Pickle
  - Telegram Bot
  - Portfolio Diversification Analysis
+ - Handwritten Digit Recognition Using Neural Networks
 
 ## codewars
 ### Source Code List
