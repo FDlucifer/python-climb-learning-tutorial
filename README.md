@@ -217,6 +217,8 @@ So much thanks to neuralnine and his contribution:
  - Telegram Bot
  - Portfolio Diversification Analysis
  - Handwritten Digit Recognition Using Neural Networks
+ - Security Levels Log Files Formatting
+ - Data Classes
 
 ## codewars
 ### Source Code List
