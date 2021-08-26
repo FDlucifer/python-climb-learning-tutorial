@@ -263,7 +263,8 @@ So much thanks to neuralnine and his contribution:
  - python misc
  - tkinter
  - Realtime chat application
- - how to ... with python
+ - Best 5 tkinter projects
+ - how to ...... with python
  1. Attach Image to pdf
  2. automate search of trending hashtag and number of tweets from those hashtags
  3. automate whatsapp message
@@ -275,5 +276,8 @@ So much thanks to neuralnine and his contribution:
  9. calculate Number of faces in a real time video using OpenCV
  10. Create Instagram filter
  11. Automating Chrome Dino game
+ 12. Monopoly Bank in python
+ 13. Memory Test Game using Python
+ 14. create Facemesh using mediapipe
 
 ## More Code Coming Soon...
