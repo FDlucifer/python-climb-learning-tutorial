@@ -219,6 +219,8 @@ So much thanks to neuralnine and his contribution:
  - Handwritten Digit Recognition Using Neural Networks
  - Security Levels Log Files Formatting
  - Data Classes
+ - Processing-XML-Files
+ - Linear-Regression-From-Scratch
 
 ## codewars
 ### Source Code List
@@ -279,5 +281,6 @@ So much thanks to neuralnine and his contribution:
  12. Monopoly Bank in python
  13. Memory Test Game using Python
  14. create Facemesh using mediapipe
+ 15. Computer vision game
 
 ## More Code Coming Soon...

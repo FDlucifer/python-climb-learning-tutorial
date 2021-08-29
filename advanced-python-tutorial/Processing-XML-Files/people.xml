@@ -1,0 +1,107 @@
+<?xml version="1.0" ?>
+<group>
+	
+    
+	<person id="200" newattr="hello">
+		
+        
+		<name>fuck you</name>
+		
+        
+		<age>20</age>
+		
+        
+		<weight>80</weight>
+		
+        
+		<height>188</height>
+		
+    
+	</person>
+	
+    
+	<person id="2">
+		
+        
+		<name>mike davis</name>
+		
+        
+		<age>45</age>
+		
+        
+		<weight>82</weight>
+		
+        
+		<height>185</height>
+		
+    
+	</person>
+	
+    
+	<person id="3">
+		
+        
+		<name>anna johnson</name>
+		
+        
+		<age>33</age>
+		
+        
+		<weight>67</weight>
+		
+        
+		<height>167</height>
+		
+    
+	</person>
+	
+    
+	<person id="4">
+		
+        
+		<name>bob smith</name>
+		
+        
+		<age>60</age>
+		
+        
+		<weight>70</weight>
+		
+        
+		<height>174</height>
+		
+    
+	</person>
+	
+    
+	<person id="5">
+		
+        
+		<name>sarah pitt</name>
+		
+        
+		<age>12</age>
+		
+        
+		<weight>50</weight>
+		
+        
+		<height>152</height>
+		
+    
+	</person>
+	
+
+	<person id="89">
+		<name>florian dedov</name>
+		<age>22</age>
+		<weight>84</weight>
+		<height>189</height>
+	</person>
+	<person id="89">
+		<name>florian dedov</name>
+		<age>22</age>
+		<weight>84</weight>
+		<height>189</height>
+	</person>
+</group>
