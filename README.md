@@ -266,7 +266,6 @@ So much thanks to neuralnine and his contribution:
  - game development
  - python pattern
  - python misc
- - tkinter
  - Realtime chat application
  - Best 5 tkinter projects
  - how to ...... with python
@@ -285,5 +284,6 @@ So much thanks to neuralnine and his contribution:
  13. Memory Test Game using Python
  14. create Facemesh using mediapipe
  15. Computer vision game
+ 16. virtual mouse
 
 ## More Code Coming Soon...
