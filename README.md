@@ -222,6 +222,8 @@ So much thanks to neuralnine and his contribution:
  - Processing-XML-Files
  - Linear-Regression-From-Scratch
  - Telegram AI Uses Neural Network To Classify Images
+ - Matplotlib Style Sheets
+ - Simple Web Browser
 
 ## codewars
 ### Source Code List
