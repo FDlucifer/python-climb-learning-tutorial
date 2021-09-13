@@ -1,0 +1,82 @@
+<MyRoot>
+
+    ip_text: ip_text
+    nickname_text: nickname_text
+    connect_btn: connect_btn
+    chat_text: chat_text
+    message_text: message_text
+    send_btn: send_btn
+    connection_grid: connection_grid
+
+    orientation: 'vertical'
+
+    GridLayout:
+        id: connection_grid
+        rows: 1
+        cols: 2
+        padding: 10
+        spacing: 10
+        height: 125
+        size_hint: (1, None)
+        BoxLayout:
+            orientation: 'vertical'
+            Label:
+                text: "server ip"
+                font_size: 42
+                color: 0.92, 0.45, 0, 1
+            TextInput:
+                id: ip_text
+                size_hint: (1, None)
+                height: 50
+                font_size: 36
+        BoxLayout:
+            orientation: 'vertical'
+            Label:
+                text: "nickname"
+                font_size: 42
+                color: 0.92, 0.45, 0, 1
+            TextInput:
+                id: nickname_text
+                size_hint: (1, None)
+                height: 50
+                font_size: 36
+
+    Button:
+        id: connect_btn
+        text: "connect"
+        font_size: 32
+        size: 100, 50
+        size_hint: (1, None)
+        height: 70
+        on_press: root.connect_to_server()
+    Label:
+        text: "chat history"
+        font_size: 42
+        height: 50
+        size_hint: (1, None)
+        color: 0.92, 0.45, 0, 1
+    TextInput:
+        id: chat_text
+        size_hint: (1, None)
+        hight: 450
+        multiline: True
+        font_size: 36
+        readonly: True
+        disabled: True
+    Label:
+        text: "your message"
+        font_size: 42
+        height: 50
+        size_hint: (1, None)
+        color: 0.92, 0.45, 0, 1
+    TextInput:
+        id: message_text
+        font_size: 36
+        disabled: True
+    Button:
+        id: send_btn
+        text: "send"
+        font_size: 32
+        size: 100, 50
+        on_press: root.send_message()
+        disabled: True

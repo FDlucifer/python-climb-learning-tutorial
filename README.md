@@ -224,6 +224,9 @@ So much thanks to neuralnine and his contribution:
  - Telegram AI Uses Neural Network To Classify Images
  - Matplotlib Style Sheets
  - Simple Web Browser
+ - Python Main Function Useful For
+ - Why is 0.1 + 0.2 Not 0.3 in Python
+ - Android Chat App
 
 ## codewars
 ### Source Code List
