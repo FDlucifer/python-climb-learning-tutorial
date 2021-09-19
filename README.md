@@ -290,5 +290,8 @@ So much thanks to neuralnine and his contribution:
  14. create Facemesh using mediapipe
  15. Computer vision game
  16. virtual mouse
+ 17. News Update Android app
+ 18. python + Arduino + ultrasonic sensor to open application by detecting motion
+ 19. Spam classifier from the scratch for chat application on machine learning part 3
 
 ## More Code Coming Soon...

@@ -1,0 +1,21 @@
+<NewsScreen>:
+    GridLayout:
+        cols: 1
+        GridLayout:
+            cols: 1
+            Label:
+                text_size: root.width-55, None
+                id: newss
+                text: ""
+
+        GridLayout:
+            size_hint: 0.2, 0.2
+            padding: 10, 10
+            cols: 2
+            Button:
+                text: "get news"
+                on_press: root.get_news()
+
+<mainWidget>:
+    NewsScreen:
+        name: "news_screen"
