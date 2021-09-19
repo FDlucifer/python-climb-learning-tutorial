@@ -227,6 +227,8 @@ So much thanks to neuralnine and his contribution:
  - Python Main Function Useful For
  - Why is 0.1 + 0.2 Not 0.3 in Python
  - Android Chat App
+ - GUI Development Using PyQt5
+ - Hide Information in JPEG Files
 
 ## codewars
 ### Source Code List
