@@ -229,6 +229,7 @@ So much thanks to neuralnine and his contribution:
  - Android Chat App
  - GUI Development Using PyQt5
  - Hide Information in JPEG Files
+ - Paint Clone
 
 ## codewars
 ### Source Code List
@@ -293,5 +294,6 @@ So much thanks to neuralnine and his contribution:
  17. News Update Android app
  18. python + Arduino + ultrasonic sensor to open application by detecting motion
  19. Spam classifier from the scratch for chat application on machine learning part 3
+ 20. Create Bluetooth Port Scanner
 
 ## More Code Coming Soon...
