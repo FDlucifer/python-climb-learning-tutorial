@@ -230,6 +230,8 @@ So much thanks to neuralnine and his contribution:
  - GUI Development Using PyQt5
  - Hide Information in JPEG Files
  - Paint Clone
+ - Simple GUI Text Editor
+ - Minimal Flask REST API
 
 ## codewars
 ### Source Code List
