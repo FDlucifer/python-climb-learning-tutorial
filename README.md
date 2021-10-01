@@ -232,6 +232,9 @@ So much thanks to neuralnine and his contribution:
  - Paint Clone
  - Simple GUI Text Editor
  - Minimal Flask REST API
+ - Bitwise Operators
+ - Simple Android Calculator App
+ - Python GUI Development
 
 ## codewars
 ### Source Code List
@@ -297,5 +300,7 @@ So much thanks to neuralnine and his contribution:
  18. python + Arduino + ultrasonic sensor to open application by detecting motion
  19. Spam classifier from the scratch for chat application on machine learning part 3
  20. Create Bluetooth Port Scanner
+ 21. 3D Objectron using python and mediapipe
+ 22. Controlling Servo motor with Arduino and python
 
 ## More Code Coming Soon...
