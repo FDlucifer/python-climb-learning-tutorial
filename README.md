@@ -235,6 +235,8 @@ So much thanks to neuralnine and his contribution:
  - Bitwise Operators
  - Simple Android Calculator App
  - Python GUI Development
+ - Professional 3D Plotting in Matplotlib
+ - Extract Text From Images in Python OCR
 
 ## codewars
 ### Source Code List
@@ -273,7 +275,6 @@ So much thanks to neuralnine and his contribution:
  - Send Multiple Emails from CSV
  - OTP Verification system
  - BLOCK WEBSITE USING PYTHON
- - Machine Learning
  - game development
  - python pattern
  - python misc
