@@ -275,7 +275,7 @@ So much thanks to neuralnine and his contribution:
  - Send Multiple Emails from CSV
  - OTP Verification system
  - BLOCK WEBSITE USING PYTHON
- - game development
+ - game development (dumb ass car game)
  - python pattern
  - python misc
  - Realtime chat application
@@ -304,4 +304,4 @@ So much thanks to neuralnine and his contribution:
  21. 3D Objectron using python and mediapipe
  22. Controlling Servo motor with Arduino and python
 
-## More Code Coming Soon...
+## ;) More Code Coming Soon... ;)
