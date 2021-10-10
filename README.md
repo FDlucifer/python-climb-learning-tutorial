@@ -10,7 +10,7 @@ So much thanks to neuralnine and his contribution:
  - [neuralnine's github](https://github.com/NeuralNine)
  - [neuralnine's youtube channel](https://www.youtube.com/channel/UC8wZnXYK_CGKlBcZp-GxYPA)
 
-## c++-beginner
+## C++-beginner
 ### Source Code List
 
  - 1-hello-world
@@ -56,7 +56,7 @@ So much thanks to neuralnine and his contribution:
  - scatter-plots-with-matplotlib
  - subplots-and-multiple-windows
 
-## intermediate
+## Intermediate
 ### Source Code List
 
  - classed-and-objects
@@ -238,14 +238,15 @@ So much thanks to neuralnine and his contribution:
  - Professional 3D Plotting in Matplotlib
  - Extract Text From Images in Python OCR
 
-## codewars
+## Codewars
 ### Source Code List
 
  - codewars 1
  - codewars 2
  - codewars 3
+ - codewars 4
 
-## w3w3w3
+## W3W3W3
 ### Source Code List
 
  - Google Chrome Browser Database Cracking Code
