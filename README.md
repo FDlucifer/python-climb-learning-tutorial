@@ -237,6 +237,8 @@ So much thanks to neuralnine and his contribution:
  - Python GUI Development
  - Professional 3D Plotting in Matplotlib
  - Extract Text From Images in Python OCR
+ - Make Images Readable Again
+ - Mail Client with GUI
 
 ## Codewars
 ### Source Code List
