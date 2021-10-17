@@ -239,6 +239,7 @@ So much thanks to neuralnine and his contribution:
  - Extract Text From Images in Python OCR
  - Make Images Readable Again
  - Mail Client with GUI
+ - Walrus Operator
 
 ## Codewars
 ### Source Code List
