@@ -240,6 +240,7 @@ So much thanks to neuralnine and his contribution:
  - Make Images Readable Again
  - Mail Client with GUI
  - Walrus Operator
+ - Recursion
 
 ## Codewars
 ### Source Code List
