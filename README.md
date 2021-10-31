@@ -241,6 +241,8 @@ So much thanks to neuralnine and his contribution:
  - Mail Client with GUI
  - Walrus Operator
  - Recursion
+ - TCP vs UDP Sockets
+ - Proxy Servers
 
 ## Codewars
 ### Source Code List
