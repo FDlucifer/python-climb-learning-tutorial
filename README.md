@@ -243,6 +243,9 @@ So much thanks to neuralnine and his contribution:
  - Recursion
  - TCP vs UDP Sockets
  - Proxy Servers
+ - x86 Assembly Hello World Explained
+ - Visualizing Sorting Algorithms
+ - Simple Todo GUI App
 
 ## Codewars
 ### Source Code List
@@ -310,5 +313,7 @@ So much thanks to neuralnine and his contribution:
  20. Create Bluetooth Port Scanner
  21. 3D Objectron using python and mediapipe
  22. Controlling Servo motor with Arduino and python
+ 23. red light green light game
+ 24. Real time emotion detection
 
 ## ;) More Code Coming Soon... ;)
