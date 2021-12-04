@@ -246,6 +246,11 @@ So much thanks to neuralnine and his contribution:
  - x86 Assembly Hello World Explained
  - Visualizing Sorting Algorithms
  - Simple Todo GUI App
+ - Building A Simple REST API with FastAPI
+ - Countdown Timer
+ - Instagram Hashtag Generator
+ - Multiplayer TicTacToe Game
+ - Speed Typing Test
 
 ## Codewars
 ### Source Code List
