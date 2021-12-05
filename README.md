@@ -320,5 +320,6 @@ So much thanks to neuralnine and his contribution:
  22. Controlling Servo motor with Arduino and python
  23. red light green light game
  24. Real time emotion detection
+ 25. Draw Squid Games card
 
 ## ;) More Code Coming Soon... ;)
