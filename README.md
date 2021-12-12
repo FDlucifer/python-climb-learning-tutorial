@@ -251,6 +251,8 @@ So much thanks to neuralnine and his contribution:
  - Instagram Hashtag Generator
  - Multiplayer TicTacToe Game
  - Speed Typing Test
+ - Financial Statements
+ - AI Biceps Curls Counter Fitness
 
 ## Codewars
 ### Source Code List
