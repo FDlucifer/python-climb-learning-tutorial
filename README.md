@@ -36,6 +36,13 @@ So much thanks to neuralnine and his contribution:
  - 21-Structs
  - 22-Typedef
 
+## C
+### Source Code List
+
+ - 1. Motivation First Program
+ - 2. Data Types Variables
+ - 3. Operators && Typecasting Constants Strings
+
 ## Python-Data-Science
 ### Source Code List
 
