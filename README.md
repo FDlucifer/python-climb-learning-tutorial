@@ -260,6 +260,8 @@ So much thanks to neuralnine and his contribution:
  - Speed Typing Test
  - Financial Statements
  - AI Biceps Curls Counter Fitness
+ - Simple HTTP Server
+ - Simplest Python Chat
 
 ## Codewars
 ### Source Code List
