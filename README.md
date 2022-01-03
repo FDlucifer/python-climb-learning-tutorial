@@ -43,6 +43,7 @@ So much thanks to neuralnine and his contribution:
  - 2. Data Types Variables
  - 3. Operators && Typecasting Constants Strings
  - 4. Conditions If Statements Switch Case
+ - 5. Loops
 
 ## Python-Data-Science
 ### Source Code List
@@ -263,6 +264,7 @@ So much thanks to neuralnine and his contribution:
  - AI Biceps Curls Counter Fitness
  - Simple HTTP Server
  - Simplest Python Chat
+ - Simple Mail Checker
 
 ## Codewars
 ### Source Code List
