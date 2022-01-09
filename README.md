@@ -44,6 +44,8 @@ So much thanks to neuralnine and his contribution:
  - 3. Operators && Typecasting Constants Strings
  - 4. Conditions If Statements Switch Case
  - 5. Loops
+ - 6. Functions
+ - 7. Arrays
 
 ## Python-Data-Science
 ### Source Code List
@@ -265,6 +267,8 @@ So much thanks to neuralnine and his contribution:
  - Simple HTTP Server
  - Simplest Python Chat
  - Simple Mail Checker
+ - AES Encryption
+ - Simple Python flask Web Application
 
 ## Codewars
 ### Source Code List
