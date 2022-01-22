@@ -46,6 +46,8 @@ So much thanks to neuralnine and his contribution:
  - 5. Loops
  - 6. Functions
  - 7. Arrays
+ - 8. Pointers
+ - 9. File Handling Errors
 
 ## Python-Data-Science
 ### Source Code List
@@ -269,6 +271,9 @@ So much thanks to neuralnine and his contribution:
  - Simple Mail Checker
  - AES Encryption
  - Simple Python flask Web Application
+ - 3D Game Development
+ - Bulk File Renaming Tool Project
+ - Pomodoro Timer GUI
 
 ## Codewars
 ### Source Code List
