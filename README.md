@@ -274,6 +274,7 @@ So much thanks to neuralnine and his contribution:
  - 3D Game Development
  - Bulk File Renaming Tool Project
  - Pomodoro Timer GUI
+ - Password Strength Checker
 
 ## Codewars
 ### Source Code List
