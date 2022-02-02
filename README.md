@@ -275,6 +275,11 @@ So much thanks to neuralnine and his contribution:
  - Bulk File Renaming Tool Project
  - Pomodoro Timer GUI
  - Password Strength Checker
+ - AI project Body Posture detection
+ - Fuzzy String Matching
+ - Hide Secret Messages in PNG
+ - 3d First person game
+ - Image Filters Effects
 
 ## Codewars
 ### Source Code List
