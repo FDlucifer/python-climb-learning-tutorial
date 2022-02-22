@@ -280,6 +280,15 @@ So much thanks to neuralnine and his contribution:
  - Hide Secret Messages in PNG
  - 3d First person game
  - Image Filters Effects
+ - Analyzing Stock Price Correlations
+ - Arduino Capacitive Touch Sensor
+ - Fingerprint Matching
+ - put face lock on an application
+ - Binary Search Tree
+ - Simulating RealWorld Processes
+ - Hyperparameter Tuning with GridSearchCV
+ - Professional Tables
+ - Simulating RealLife Processes
 
 ## Codewars
 ### Source Code List
