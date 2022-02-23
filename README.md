@@ -289,6 +289,18 @@ So much thanks to neuralnine and his contribution:
  - Hyperparameter Tuning with GridSearchCV
  - Professional Tables
  - Simulating RealLife Processes
+ - Heaps & Priority Queues
+ - Immutable Data Structures
+ - filter() Function
+ - map() Function
+ - reduce() Function
+ - enumerate() With for Loops
+ - append() to Build Lists
+ - any() & Working With Multiple Booleans
+ - Using pickle Modul
+ - Speed Up Python With Concurrency
+ - NumPy Data Science Fundamentals
+ - Titanic Survival Prediction Machine Learning Project
 
 ## Codewars
 ### Source Code List
