@@ -301,6 +301,7 @@ So much thanks to neuralnine and his contribution:
  - Speed Up Python With Concurrency
  - NumPy Data Science Fundamentals
  - Titanic Survival Prediction Machine Learning Project
+ - Coding a Snake Game
 
 ## Codewars
 ### Source Code List
