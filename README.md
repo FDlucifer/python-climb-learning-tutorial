@@ -302,6 +302,7 @@ So much thanks to neuralnine and his contribution:
  - NumPy Data Science Fundamentals
  - Titanic Survival Prediction Machine Learning Project
  - Coding a Snake Game
+ - Simple Linear Regression
 
 ## Codewars
 ### Source Code List
