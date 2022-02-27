@@ -303,6 +303,7 @@ So much thanks to neuralnine and his contribution:
  - Titanic Survival Prediction Machine Learning Project
  - Coding a Snake Game
  - Simple Linear Regression
+ - Simple Face Detection
 
 ## Codewars
 ### Source Code List
