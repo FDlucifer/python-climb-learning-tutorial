@@ -34,7 +34,8 @@
         "xstddef": "cpp",
         "xstring": "cpp",
         "xtr1common": "cpp",
-        "xutility": "cpp"
+        "xutility": "cpp",
+        "string.h": "c"
     },
     "git.ignoreLimitWarning": true
 }
