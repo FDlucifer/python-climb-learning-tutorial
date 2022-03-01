@@ -305,6 +305,7 @@ So much thanks to neuralnine and his contribution:
  - Coding a Snake Game
  - Simple Linear Regression
  - Simple Face Detection
+ - Bandwidth Monitor
 
 ## Codewars
 ### Source Code List
