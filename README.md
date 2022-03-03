@@ -306,6 +306,7 @@ So much thanks to neuralnine and his contribution:
  - Simple Linear Regression
  - Simple Face Detection
  - Bandwidth Monitor
+ - Password Manager
 
 ## Codewars
 ### Source Code List
