@@ -307,6 +307,7 @@ So much thanks to neuralnine and his contribution:
  - Simple Face Detection
  - Bandwidth Monitor
  - Password Manager
+ - Calorie Tracker
 
 ## Codewars
 ### Source Code List
