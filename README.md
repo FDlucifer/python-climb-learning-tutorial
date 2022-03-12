@@ -308,6 +308,10 @@ So much thanks to neuralnine and his contribution:
  - Bandwidth Monitor
  - Password Manager
  - Calorie Tracker
+ - Counters
+ - Polynomial Regression
+ - Pushpa dance Holistic figure
+ - python Algorithms
 
 ## Codewars
 ### Source Code List
