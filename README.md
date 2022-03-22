@@ -312,6 +312,8 @@ So much thanks to neuralnine and his contribution:
  - Polynomial Regression
  - Pushpa dance Holistic figure
  - python Algorithms
+ - Automated Google Drive Backups
+ - Kraken Trading Bot
 
 ## Codewars
 ### Source Code List
