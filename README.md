@@ -314,6 +314,7 @@ So much thanks to neuralnine and his contribution:
  - python Algorithms
  - Automated Google Drive Backups
  - Kraken Trading Bot
+ - Breast Cancer Detection
 
 ## Codewars
 ### Source Code List
