@@ -315,6 +315,8 @@ So much thanks to neuralnine and his contribution:
  - Automated Google Drive Backups
  - Kraken Trading Bot
  - Breast Cancer Detection
+ - Locking & Synchronizing Threads
+ - Itertools For Advanced Iteration
 
 ## Codewars
 ### Source Code List
