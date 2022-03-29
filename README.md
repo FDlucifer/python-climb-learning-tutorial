@@ -317,6 +317,7 @@ So much thanks to neuralnine and his contribution:
  - Breast Cancer Detection
  - Locking & Synchronizing Threads
  - Itertools For Advanced Iteration
+ - Weather API
 
 ## Codewars
 ### Source Code List
