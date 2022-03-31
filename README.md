@@ -318,6 +318,8 @@ So much thanks to neuralnine and his contribution:
  - Locking & Synchronizing Threads
  - Itertools For Advanced Iteration
  - Weather API
+ - Push-up counter using Mediapipe
+ - Analysing and downloading YouTube videos
 
 ## Codewars
 ### Source Code List
