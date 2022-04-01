@@ -321,6 +321,7 @@ So much thanks to neuralnine and his contribution:
  - Push-up counter using Mediapipe
  - Analysing and downloading YouTube videos
  - Pythons datetime Module and How Dates and Times are Messy
+ - Automated Video Editing
 
 ## Codewars
 ### Source Code List
