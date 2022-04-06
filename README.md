@@ -322,6 +322,9 @@ So much thanks to neuralnine and his contribution:
  - Analysing and downloading YouTube videos
  - Pythons datetime Module and How Dates and Times are Messy
  - Automated Video Editing
+ - Create Fancy Word Clouds
+ - Handling Multiple Timezones
+ - Voice Activated Switch using Arduino
 
 ## Codewars
 ### Source Code List
