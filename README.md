@@ -325,6 +325,20 @@ So much thanks to neuralnine and his contribution:
  - Create Fancy Word Clouds
  - Handling Multiple Timezones
  - Voice Activated Switch using Arduino
+ - 2 Level Security System
+ - Config Files & Parsing
+
+## 10 apps in Python with PySimpleGUI
+### Source Code List
+
+ - python libs to install: pip install PySimpleGUI tk Qt WxPython Remi
+ - 1-converter
+ - 2-one-line-app
+ - 3-calculator
+ - 4-stopwatch
+ - 5-text-editor
+ - 6-snake
+ - 7-graph-app
 
 ## Codewars
 ### Source Code List
