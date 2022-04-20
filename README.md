@@ -331,7 +331,7 @@ So much thanks to neuralnine and his contribution:
 ## 10 apps in Python with PySimpleGUI
 ### Source Code List
 
- - python libs to install: pip install PySimpleGUI tk Qt WxPython Remi
+ - python libs to install: pip install PySimpleGUI tk Qt WxPython Remi matplotlib pillow
  - 1-converter
  - 2-one-line-app
  - 3-calculator
@@ -339,6 +339,9 @@ So much thanks to neuralnine and his contribution:
  - 5-text-editor
  - 6-snake
  - 7-graph-app
+ - 8-image-editor
+ - 9-youtube-downloader
+ - 
 
 ## Codewars
 ### Source Code List
