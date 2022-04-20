@@ -327,6 +327,9 @@ So much thanks to neuralnine and his contribution:
  - Voice Activated Switch using Arduino
  - 2 Level Security System
  - Config Files & Parsing
+ - Does Pydantic Replace Dataclasses in Python
+ - Generating Professional Sample Data with Faker
+ - Partial Functions
 
 ## 10 apps in Python with PySimpleGUI
 ### Source Code List
