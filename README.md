@@ -332,6 +332,10 @@ So much thanks to neuralnine and his contribution:
  - Partial Functions
  - Snake in Excel with Python
  - Snake in the powershell terminal
+ - Auto Clicker Bot
+ - Statistics Fundamentals
+ - Understanding framerate independence and deltatime
+ - 
 
 ## 10 apps in Python with PySimpleGUI
 ### Source Code List
