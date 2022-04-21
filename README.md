@@ -330,6 +330,8 @@ So much thanks to neuralnine and his contribution:
  - Does Pydantic Replace Dataclasses in Python
  - Generating Professional Sample Data with Faker
  - Partial Functions
+ - Snake in Excel with Python
+ - Snake in the powershell terminal
 
 ## 10 apps in Python with PySimpleGUI
 ### Source Code List
