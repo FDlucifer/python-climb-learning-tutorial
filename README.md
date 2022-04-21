@@ -335,7 +335,8 @@ So much thanks to neuralnine and his contribution:
  - Auto Clicker Bot
  - Statistics Fundamentals
  - Understanding framerate independence and deltatime
- - 
+ - Web Scraping with Professional Proxy Servers
+ - Emojis in Python
 
 ## 10 apps in Python with PySimpleGUI
 ### Source Code List
