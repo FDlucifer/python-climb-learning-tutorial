@@ -339,6 +339,8 @@ So much thanks to neuralnine and his contribution:
  - Emojis in Python
  - Animating Statistical Data
  - Connect Python Scripts To Internet With Ngrok
+ - Conway's Game of Life
+ - Custom Color Maps in Matplotlib
  - 
 
 ## 10 apps in Python with PySimpleGUI
