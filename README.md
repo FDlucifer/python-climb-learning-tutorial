@@ -341,6 +341,7 @@ So much thanks to neuralnine and his contribution:
  - Connect Python Scripts To Internet With Ngrok
  - Conway's Game of Life
  - Custom Color Maps in Matplotlib
+ - Interactive Python Plots With IPyWidgets
  - 
 
 ## 10 apps in Python with PySimpleGUI
