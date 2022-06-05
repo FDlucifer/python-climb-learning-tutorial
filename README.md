@@ -342,6 +342,9 @@ So much thanks to neuralnine and his contribution:
  - Conway's Game of Life
  - Custom Color Maps in Matplotlib
  - Interactive Python Plots With IPyWidgets
+ - Windows Notifications
+ - Visualizing Decision Trees
+ - Visualize Stock Market Maps
  - 
 
 ## 10 apps in Python with PySimpleGUI
