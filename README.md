@@ -345,6 +345,8 @@ So much thanks to neuralnine and his contribution:
  - Windows Notifications
  - Visualizing Decision Trees
  - Visualize Stock Market Maps
+ - System Tray Icon
+ - SymPy is REVOLUTIONARY For Mathematical Tasks
  - 
 
 ## 10 apps in Python with PySimpleGUI
