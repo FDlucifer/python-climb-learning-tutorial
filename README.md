@@ -347,6 +347,7 @@ So much thanks to neuralnine and his contribution:
  - Visualize Stock Market Maps
  - System Tray Icon
  - SymPy is REVOLUTIONARY For Mathematical Tasks
+ - Stock Price Alarm Bot
  - 
 
 ## 10 apps in Python with PySimpleGUI
