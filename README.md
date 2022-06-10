@@ -348,6 +348,8 @@ So much thanks to neuralnine and his contribution:
  - System Tray Icon
  - SymPy is REVOLUTIONARY For Mathematical Tasks
  - Stock Price Alarm Bot
+ - Progress Bars
+ - Plotting in Command Line
  - 
 
 ## 10 apps in Python with PySimpleGUI
