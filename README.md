@@ -350,7 +350,11 @@ So much thanks to neuralnine and his contribution:
  - Stock Price Alarm Bot
  - Progress Bars
  - Plotting in Command Line
- - 
+ - Online Web Chat
+ - Naming Colors
+ - Morse Code
+ - image Compression Using PCA
+ - Extracting Dominant Colors From Images
 
 ## 10 apps in Python with PySimpleGUI
 ### Source Code List
