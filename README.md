@@ -355,6 +355,11 @@ So much thanks to neuralnine and his contribution:
  - Morse Code
  - image Compression Using PCA
  - Extracting Dominant Colors From Images
+ - Word File Processing
+ - Split Screen Videos with MoviePy
+ - Simple UDP Chat Room
+ - Hardware Information Tool
+ - CPU & RAM Usage Monitor
 
 ## 10 apps in Python with PySimpleGUI
 ### Source Code List
