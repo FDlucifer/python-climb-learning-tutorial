@@ -360,6 +360,8 @@ So much thanks to neuralnine and his contribution:
  - Simple UDP Chat Room
  - Hardware Information Tool
  - CPU & RAM Usage Monitor
+ - Simple Image Viewer
+ - Professional CLI Applications with Click
 
 ## 10 apps in Python with PySimpleGUI
 ### Source Code List
