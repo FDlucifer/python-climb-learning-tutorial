@@ -362,6 +362,7 @@ So much thanks to neuralnine and his contribution:
  - CPU & RAM Usage Monitor
  - Simple Image Viewer
  - Professional CLI Applications with Click
+ - Fuzzy File Searching Tool
 
 ## 10 apps in Python with PySimpleGUI
 ### Source Code List
