@@ -363,6 +363,7 @@ So much thanks to neuralnine and his contribution:
  - Simple Image Viewer
  - Professional CLI Applications with Click
  - Fuzzy File Searching Tool
+ - GPS Location From Image Metadata
 
 ## 10 apps in Python with PySimpleGUI
 ### Source Code List
