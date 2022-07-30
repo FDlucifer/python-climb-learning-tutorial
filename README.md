@@ -366,6 +366,7 @@ So much thanks to neuralnine and his contribution:
  - GPS Location From Image Metadata
  - Thread Pools
  - Shutdown Logout and Restart Computer with Python GUI
+ - Professional Progress Bars
 
 ## 10 apps in Python with PySimpleGUI
 ### Source Code List
