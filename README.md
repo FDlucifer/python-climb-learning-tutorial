@@ -364,6 +364,8 @@ So much thanks to neuralnine and his contribution:
  - Professional CLI Applications with Click
  - Fuzzy File Searching Tool
  - GPS Location From Image Metadata
+ - Thread Pools
+ - Shutdown Logout and Restart Computer with Python GUI
 
 ## 10 apps in Python with PySimpleGUI
 ### Source Code List
