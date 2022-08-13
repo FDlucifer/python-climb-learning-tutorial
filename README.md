@@ -367,6 +367,11 @@ So much thanks to neuralnine and his contribution:
  - Thread Pools
  - Shutdown Logout and Restart Computer with Python GUI
  - Professional Progress Bars
+ - SQL Queries For Pandas DataFrames
+ - Replace Excel With Pandas
+ - Parallelize Python Tasks with Joblib
+ - Generate Unique IDs in Python (UUIDs)
+ - Auto-Translating Chat
 
 ## 10 apps in Python with PySimpleGUI
 ### Source Code List
