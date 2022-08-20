@@ -372,6 +372,8 @@ So much thanks to neuralnine and his contribution:
  - Parallelize Python Tasks with Joblib
  - Generate Unique IDs in Python (UUIDs)
  - Auto-Translating Chat
+ - Simple Instagram Bot
+ - Hidden Password Input
 
 ## 10 apps in Python with PySimpleGUI
 ### Source Code List
