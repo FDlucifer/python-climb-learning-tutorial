@@ -49,6 +49,7 @@ So much thanks to neuralnine and his contribution:
  - 8. Pointers
  - 9. File Handling Errors
  - 10. Spinning Donut
+ - 11. Spinning cube
 
 ## Python-Data-Science
 ### Source Code List
@@ -374,6 +375,10 @@ So much thanks to neuralnine and his contribution:
  - Auto-Translating Chat
  - Simple Instagram Bot
  - Hidden Password Input
+ - Visualizing Excel Files Easily
+ - Unlocking your CPU cores
+ - RSA Private & Public Key Encryption
+ - Regular Expressions
 
 ## 10 apps in Python with PySimpleGUI
 ### Source Code List
