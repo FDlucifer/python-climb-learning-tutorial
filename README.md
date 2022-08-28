@@ -379,6 +379,7 @@ So much thanks to neuralnine and his contribution:
  - Unlocking your CPU cores
  - RSA Private & Public Key Encryption
  - Regular Expressions
+ - Selenium Browser Automation
 
 ## 10 apps in Python with PySimpleGUI
 ### Source Code List
