@@ -380,6 +380,8 @@ So much thanks to neuralnine and his contribution:
  - RSA Private & Public Key Encryption
  - Regular Expressions
  - Selenium Browser Automation
+ - Windows Registry
+ - Extract PDF Content
 
 ## 10 apps in Python with PySimpleGUI
 ### Source Code List
