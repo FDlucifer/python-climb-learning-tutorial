@@ -382,6 +382,9 @@ So much thanks to neuralnine and his contribution:
  - Selenium Browser Automation
  - Windows Registry
  - Extract PDF Content
+ - Merge PDF Files
+ - How To Use Joysticks & Controllers in PyGame
+ - Camera Recording Tool
 
 ## 10 apps in Python with PySimpleGUI
 ### Source Code List
