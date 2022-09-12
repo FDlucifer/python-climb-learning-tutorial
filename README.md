@@ -385,6 +385,7 @@ So much thanks to neuralnine and his contribution:
  - Merge PDF Files
  - How To Use Joysticks & Controllers in PyGame
  - Camera Recording Tool
+ - Splitting PDF Files
 
 ## 10 apps in Python with PySimpleGUI
 ### Source Code List
