@@ -386,6 +386,9 @@ So much thanks to neuralnine and his contribution:
  - How To Use Joysticks & Controllers in PyGame
  - Camera Recording Tool
  - Splitting PDF Files
+ - File Transfer via Sockets
+ - XPath Crash Course For Python Web Scraping
+ - Deploy Your Discord Python Bot For Free
 
 ## 10 apps in Python with PySimpleGUI
 ### Source Code List
