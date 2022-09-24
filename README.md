@@ -389,6 +389,9 @@ So much thanks to neuralnine and his contribution:
  - File Transfer via Sockets
  - XPath Crash Course For Python Web Scraping
  - Deploy Your Discord Python Bot For Free
+ - Simple Voice Recorder with GUI
+ - Make SQL Queries Secure
+ - Automatic OCR Receipt & Invoice Parsing
 
 ## 10 apps in Python with PySimpleGUI
 ### Source Code List
