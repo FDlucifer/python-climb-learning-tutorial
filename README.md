@@ -392,6 +392,7 @@ So much thanks to neuralnine and his contribution:
  - Simple Voice Recorder with GUI
  - Make SQL Queries Secure
  - Automatic OCR Receipt & Invoice Parsing
+ - Decimal Module in Python For Accurate Floats
 
 ## 10 apps in Python with PySimpleGUI
 ### Source Code List
