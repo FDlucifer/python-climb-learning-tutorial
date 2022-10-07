@@ -395,6 +395,9 @@ So much thanks to neuralnine and his contribution:
  - Decimal Module in Python For Accurate Floats
  - Packaging Data Using Structs
  - Controlling Your PC's Volume
+ - QR Code Scanner & Generator with GUI
+ - String Fundamentals Concatenation Indexing and Slicing Python Basics
+ - 
 
 ## 10 apps in Python with PySimpleGUI
 ### Source Code List
