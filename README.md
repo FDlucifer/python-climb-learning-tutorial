@@ -397,7 +397,8 @@ So much thanks to neuralnine and his contribution:
  - Controlling Your PC's Volume
  - QR Code Scanner & Generator with GUI
  - String Fundamentals Concatenation Indexing and Slicing Python Basics
- - 
+ - Graphical Python Programming For Beginners with Turtle
+ - Automated Excel Bot in Python
 
 ## 10 apps in Python with PySimpleGUI
 ### Source Code List
