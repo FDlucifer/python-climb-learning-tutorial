@@ -201,6 +201,14 @@ So much thanks to neuralnine and his contribution:
  - Crypto Trading Bot
  - MySQL Bascis
  - Stock Screener
+ - Voice Assistant with Wake Word
+ - IPv6 Sockets
+ - Turns Python Objects Into Database Entries
+ - Predicting Stock Prices with FBProphet
+ - Convert Text To Binary
+ - Process HUGE Data Sets in Pandas
+ - Simple Automated SSH Python Bot
+ - Advanced Stopwatch
 
 ## Python-Advanced-Tutorial
 ### Source Code List
