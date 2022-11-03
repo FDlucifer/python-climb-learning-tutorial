@@ -209,6 +209,7 @@ So much thanks to neuralnine and his contribution:
  - Process HUGE Data Sets in Pandas
  - Simple Automated SSH Python Bot
  - Advanced Stopwatch
+ - Detection Alarm System
 
 ## Python-Advanced-Tutorial
 ### Source Code List
