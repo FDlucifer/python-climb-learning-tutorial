@@ -212,6 +212,7 @@ So much thanks to neuralnine and his contribution:
  - Detection Alarm System
  - Backtesting Stock Trading Strategies
  - Coding Encrypted Chat
+ - Coding Web Crawler in Python with Scrapy
  - 
 
 ## Python-Advanced-Tutorial
