@@ -210,6 +210,9 @@ So much thanks to neuralnine and his contribution:
  - Simple Automated SSH Python Bot
  - Advanced Stopwatch
  - Detection Alarm System
+ - Backtesting Stock Trading Strategies
+ - Coding Encrypted Chat
+ - 
 
 ## Python-Advanced-Tutorial
 ### Source Code List
