@@ -213,6 +213,7 @@ So much thanks to neuralnine and his contribution:
  - Backtesting Stock Trading Strategies
  - Coding Encrypted Chat
  - Coding Web Crawler in Python with Scrapy
+ - Context Managers
  - 
 
 ## Python-Advanced-Tutorial
