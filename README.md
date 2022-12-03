@@ -214,6 +214,7 @@ So much thanks to neuralnine and his contribution:
  - Coding Encrypted Chat
  - Coding Web Crawler in Python with Scrapy
  - Context Managers
+ - House Price Prediction
  - 
 
 ## Python-Advanced-Tutorial
