@@ -215,6 +215,10 @@ So much thanks to neuralnine and his contribution:
  - Coding Web Crawler in Python with Scrapy
  - Context Managers
  - House Price Prediction
+ - Interactive Web Visualizations with Bokeh
+ - Load Database Tables Into Pandas
+ - Modern Graphical User Interfaces
+ - Processing & Handling Signals
  - 
 
 ## Python-Advanced-Tutorial
