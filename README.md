@@ -219,6 +219,7 @@ So much thanks to neuralnine and his contribution:
  - Load Database Tables Into Pandas
  - Modern Graphical User Interfaces
  - Processing & Handling Signals
+ - Professional Dependency Management with Pipfiles
  - 
 
 ## Python-Advanced-Tutorial
