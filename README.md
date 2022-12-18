@@ -222,6 +222,11 @@ So much thanks to neuralnine and his contribution:
  - Professional Dependency Management with Pipfiles
  - Automated Options Trading Bot
  - Encrypted File Transfer via Sockets
+ - Using Python Context Managers and the with Statement
+ - Pointers in Python Are A Real Thing
+ - Real-Time Spelling Checker
+ - WHOIS Domain Lookup Tool
+ - Requests Library
  - 
 
 ## Python-Advanced-Tutorial
