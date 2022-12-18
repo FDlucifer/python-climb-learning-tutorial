@@ -220,6 +220,8 @@ So much thanks to neuralnine and his contribution:
  - Modern Graphical User Interfaces
  - Processing & Handling Signals
  - Professional Dependency Management with Pipfiles
+ - Automated Options Trading Bot
+ - Encrypted File Transfer via Sockets
  - 
 
 ## Python-Advanced-Tutorial
