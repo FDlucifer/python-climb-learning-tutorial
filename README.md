@@ -227,6 +227,7 @@ So much thanks to neuralnine and his contribution:
  - Real-Time Spelling Checker
  - WHOIS Domain Lookup Tool
  - Requests Library
+ - Rotating Proxies For Web Requests
  - 
 
 ## Python-Advanced-Tutorial

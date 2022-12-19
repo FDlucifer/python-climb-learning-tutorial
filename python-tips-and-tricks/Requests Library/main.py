@@ -50,8 +50,8 @@ res_json = response.json()
 print(res_json)
 
 proxies = {
-    "http": "139.99.237.62:80",
-    "https": "139.99.237.62:80"
+    "http:": "139.99.237.62:80",
+    "https:": "139.99.237.62:80"
 }
 
 response = requests.get('https://httpbin.org/get', proxies=proxies)
