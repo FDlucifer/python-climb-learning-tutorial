@@ -229,6 +229,7 @@ So much thanks to neuralnine and his contribution:
  - Requests Library
  - Rotating Proxies For Web Requests
  - Run Python Code From Excel with VBA
+ - Containerize Python Applications with Docker
  - 
 
 ## Python-Advanced-Tutorial
