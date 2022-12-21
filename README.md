@@ -230,6 +230,8 @@ So much thanks to neuralnine and his contribution:
  - Rotating Proxies For Web Requests
  - Run Python Code From Excel with VBA
  - Containerize Python Applications with Docker
+ - Secure Login System
+ - Two-Factor Authentication 2FA
  - 
 
 ## Python-Advanced-Tutorial
