@@ -1,0 +1,15 @@
+address: &address
+  street: my fancy street 15
+  city: my city
+  state: my state
+
+person1:
+  name: john
+  age: 35
+  address: *address
+
+person2:
+  name: bob
+  age: 65
+  address: *address
+

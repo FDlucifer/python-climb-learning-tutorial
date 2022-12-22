@@ -1,0 +1,10 @@
+address:
+  ZIP: '1234'
+  city: NYC
+  country: US
+age: 25
+languages:
+- Python
+- C
+- Java
+name: luci
