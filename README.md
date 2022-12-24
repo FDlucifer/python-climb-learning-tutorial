@@ -233,6 +233,7 @@ So much thanks to neuralnine and his contribution:
  - Secure Login System
  - Two-Factor Authentication 2FA
  - Working with YAML Files
+ - Scheduling Tasks Professionally
  - 
 
 ## Python-Advanced-Tutorial
