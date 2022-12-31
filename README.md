@@ -234,6 +234,8 @@ So much thanks to neuralnine and his contribution:
  - Two-Factor Authentication 2FA
  - Working with YAML Files
  - Scheduling Tasks Professionally
+ - For-Else
+ - Plotnine_ A Different Approach To Data Visualization
  - 
 
 ## Python-Advanced-Tutorial
