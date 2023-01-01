@@ -236,6 +236,7 @@ So much thanks to neuralnine and his contribution:
  - Scheduling Tasks Professionally
  - For-Else
  - Plotnine_ A Different Approach To Data Visualization
+ - Python Operator_ Key in Matrix Operations
  - 
 
 ## Python-Advanced-Tutorial
