@@ -238,6 +238,9 @@ So much thanks to neuralnine and his contribution:
  - Plotnine_ A Different Approach To Data Visualization
  - Python Operator_ Key in Matrix Operations
  - Disassembling Python Code
+ - Optimize Python Code Profiling with cProfile
+ - Telegram Birthday Bot
+ - get position and auto click
  - 
 
 ## Python-Advanced-Tutorial
