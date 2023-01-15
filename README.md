@@ -241,6 +241,10 @@ So much thanks to neuralnine and his contribution:
  - Optimize Python Code Profiling with cProfile
  - Telegram Birthday Bot
  - get position and auto click
+ - Massively Speed Up Requests with HTTPX
+ - Professional Command-Line Tools with Click-Shell
+ - Professional Expense Tracker
+ - Python Threading Explained in 8 Minutes
  - 
 
 ## Python-Advanced-Tutorial
