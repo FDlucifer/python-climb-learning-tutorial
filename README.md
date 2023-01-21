@@ -245,6 +245,8 @@ So much thanks to neuralnine and his contribution:
  - Professional Command-Line Tools with Click-Shell
  - Professional Expense Tracker
  - Python Threading Explained in 8 Minutes
+ - Python pathlib Module and Dictionaries
+ - Python Speed Comparison
  - 
 
 ## Python-Advanced-Tutorial
