@@ -247,7 +247,6 @@ So much thanks to neuralnine and his contribution:
  - Python Threading Explained in 8 Minutes
  - Python pathlib Module and Dictionaries
  - Python Speed Comparison
- - 
 
 ## Python-Advanced-Tutorial
 ### Source Code List
@@ -446,6 +445,10 @@ So much thanks to neuralnine and his contribution:
  - String Fundamentals Concatenation Indexing and Slicing Python Basics
  - Graphical Python Programming For Beginners with Turtle
  - Automated Excel Bot in Python
+ - Advanced Exception Handling
+ - Build Your Own Financial Dashboard
+ - 
+
 
 ## 10 apps in Python with PySimpleGUI
 ### Source Code List
