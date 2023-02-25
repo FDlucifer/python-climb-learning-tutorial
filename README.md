@@ -447,6 +447,12 @@ So much thanks to neuralnine and his contribution:
  - Automated Excel Bot in Python
  - Advanced Exception Handling
  - Build Your Own Financial Dashboard
+ - Graph Embedding For Machine Learning
+ - Matchmaking System For Games
+ - NetworkX Crash Course - Graph Theory
+ - Professional Webhooks with Flask
+ - Pynecone
+ - Simple FTP Server
  - 
 
 

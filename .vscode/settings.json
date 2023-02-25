@@ -37,5 +37,6 @@
         "xutility": "cpp",
         "string.h": "c"
     },
-    "git.ignoreLimitWarning": true
+    "git.ignoreLimitWarning": true,
+    "python.analysis.typeCheckingMode": "basic"
 }
