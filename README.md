@@ -454,6 +454,7 @@ So much thanks to neuralnine and his contribution:
  - Pynecone
  - Simple FTP Server
  - Age & Gender Prediction with DeepFace
+ - Anomaly Detection For Time Series Data
  - 
 
 
