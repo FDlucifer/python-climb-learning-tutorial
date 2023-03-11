@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <title>title</title>
+    </head>
+    <body>
+        <form action="{{ url_for('edit', index=index)}}" method="post">
+            <input type="text" name="todo" value="{{ todo['task'] }}">
+            <button type="submit">save</button>
+        </form>
+    </body>
+</html>
+

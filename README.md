@@ -457,7 +457,8 @@ So much thanks to neuralnine and his contribution:
  - Anomaly Detection For Time Series Data
  - zipfile to Work With Existing Zip files
  - Text Generation AI
- - 
+ - PostgreSQL in Python
+ - Simple Todo List App in Flask
 
 
 ## 10 apps in Python with PySimpleGUI
