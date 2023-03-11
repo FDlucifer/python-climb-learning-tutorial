@@ -455,6 +455,8 @@ So much thanks to neuralnine and his contribution:
  - Simple FTP Server
  - Age & Gender Prediction with DeepFace
  - Anomaly Detection For Time Series Data
+ - zipfile to Work With Existing Zip files
+ - Text Generation AI
  - 
 
 
