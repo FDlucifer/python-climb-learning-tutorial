@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <title>polling app flask</title>
+    </head>
+    <body>
+        <h3>create new poll</h3>
+        <form action="{{ url_for("create_poll") }}" method="post">
+            <label for="poll">
+                poll text:
+                <input type="text" name="poll" placeholder="poll text">
+            </label><br>
+            <label for="option1">
+                option 1:
+                <input type="text" name="option1" placeholder="option 1">
+            </label><br>
+            <label for="option2">
+                option 2:
+                <input type="text" name="option2" placeholder="option 2">
+            </label><br>
+            <label for="option3">
+                option 3:
+                <input type="text" name="option3" placeholder="option 3">
+            </label><br>
+            <input type="submit" value="create">
+        </form>
+    </body>
+</html>

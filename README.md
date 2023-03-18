@@ -459,6 +459,11 @@ So much thanks to neuralnine and his contribution:
  - Text Generation AI
  - PostgreSQL in Python
  - Simple Todo List App in Flask
+ - AI Custom Drawings Classifier
+ - Fake News Detection
+ - K-Nearest Neighbors Classification From Scratch
+ - Polling Application with Flask
+ - 
 
 
 ## 10 apps in Python with PySimpleGUI
