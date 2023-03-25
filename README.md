@@ -463,6 +463,8 @@ So much thanks to neuralnine and his contribution:
  - Fake News Detection
  - K-Nearest Neighbors Classification From Scratch
  - Polling Application with Flask
+ - Live Face Recognition
+ - Use OpenAI ChatGPT in Python
  - 
 
 
