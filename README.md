@@ -465,6 +465,9 @@ So much thanks to neuralnine and his contribution:
  - Polling Application with Flask
  - Live Face Recognition
  - Use OpenAI ChatGPT in Python
+ - Google Sheets API Automation
+ - Encrypt SQLite Databases with SQLCipher
+ - Hashing in Python Using Hashlib Library for Secure Hashing
  - 
 
 

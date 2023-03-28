@@ -1,0 +1,7 @@
+PRAGMA foreign_keys=OFF;
+BEGIN TRANSACTION;
+CREATE TABLE people (id INT, name TEXT, age INT);
+INSERT INTO people VALUES(1,'Mike',30);
+INSERT INTO people VALUES(2,'Sara',40);
+INSERT INTO people VALUES(3,'Bob',70);
+COMMIT;
