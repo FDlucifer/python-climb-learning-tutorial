@@ -468,7 +468,10 @@ So much thanks to neuralnine and his contribution:
  - Google Sheets API Automation
  - Encrypt SQLite Databases with SQLCipher
  - Hashing in Python Using Hashlib Library for Secure Hashing
- - 
+ - Deep Reinforcement Learning with OpenAI Gym
+ - Generate AI Images with OpenAI DALL-E
+ - Gradient Descent From Scratch
+ -
 
 
 ## 10 apps in Python with PySimpleGUI
