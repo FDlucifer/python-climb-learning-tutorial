@@ -471,6 +471,9 @@ So much thanks to neuralnine and his contribution:
  - Deep Reinforcement Learning with OpenAI Gym
  - Generate AI Images with OpenAI DALL-E
  - Gradient Descent From Scratch
+ - Massively Speed-Up SQL Queries with Indexes
+ - Professional Authentication System with Descope in Python Flask
+ - Professional Weather App with Django
  -
 
 
