@@ -474,7 +474,8 @@ So much thanks to neuralnine and his contribution:
  - Massively Speed-Up SQL Queries with Indexes
  - Professional Authentication System with Descope in Python Flask
  - Professional Weather App with Django
- -
+ - Python Interface Definitions & Stub Files For Professional Development
+ - Sign Emails with Certificates & SMIME
 
 
 ## 10 apps in Python with PySimpleGUI
