@@ -476,7 +476,7 @@ So much thanks to neuralnine and his contribution:
  - Professional Weather App with Django
  - Python Interface Definitions & Stub Files For Professional Development
  - Sign Emails with Certificates & SMIME
-
+ - Flask Blueprints Make Your Apps Modular & Professional
 
 ## 10 apps in Python with PySimpleGUI
 ### Source Code List
