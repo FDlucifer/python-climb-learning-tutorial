@@ -477,6 +477,7 @@ So much thanks to neuralnine and his contribution:
  - Python Interface Definitions & Stub Files For Professional Development
  - Sign Emails with Certificates & SMIME
  - Flask Blueprints Make Your Apps Modular & Professional
+ - Properly Load & Manage API Keys
 
 ## 10 apps in Python with PySimpleGUI
 ### Source Code List
