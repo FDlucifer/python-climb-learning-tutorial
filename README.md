@@ -478,6 +478,9 @@ So much thanks to neuralnine and his contribution:
  - Sign Emails with Certificates & SMIME
  - Flask Blueprints Make Your Apps Modular & Professional
  - Properly Load & Manage API Keys
+ - Load Environment Variables From .env Files
+ - URL Shortener in Flask
+ -
 
 ## 10 apps in Python with PySimpleGUI
 ### Source Code List
