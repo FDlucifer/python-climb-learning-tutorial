@@ -480,6 +480,7 @@ So much thanks to neuralnine and his contribution:
  - Properly Load & Manage API Keys
  - Load Environment Variables From .env Files
  - URL Shortener in Flask
+ - RSA Encryption From Scratch Math
  -
 
 ## 10 apps in Python with PySimpleGUI
@@ -505,6 +506,7 @@ So much thanks to neuralnine and his contribution:
  - codewars 2
  - codewars 3
  - codewars 4
+ - codewars 5
 
 ## W3W3W3
 ### Source Code List
