@@ -481,6 +481,7 @@ So much thanks to neuralnine and his contribution:
  - Load Environment Variables From .env Files
  - URL Shortener in Flask
  - RSA Encryption From Scratch Math
+ - Analyze Text Readability & Complexity
  -
 
 ## 10 apps in Python with PySimpleGUI
