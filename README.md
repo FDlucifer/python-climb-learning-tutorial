@@ -483,6 +483,7 @@ So much thanks to neuralnine and his contribution:
  - RSA Encryption From Scratch Math
  - Analyze Text Readability & Complexity
  - MapReduce Jobs For Distributed Hadoop Clusters
+ - Custom MoviePy Animations
  -
 
 ## 10 apps in Python with PySimpleGUI
