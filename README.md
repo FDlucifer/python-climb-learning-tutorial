@@ -484,6 +484,7 @@ So much thanks to neuralnine and his contribution:
  - Analyze Text Readability & Complexity
  - MapReduce Jobs For Distributed Hadoop Clusters
  - Custom MoviePy Animations
+ - Create & Manage Cookies in Flask
  -
 
 ## 10 apps in Python with PySimpleGUI
