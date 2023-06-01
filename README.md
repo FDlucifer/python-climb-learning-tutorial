@@ -247,6 +247,8 @@ So much thanks to neuralnine and his contribution:
  - Python Threading Explained in 8 Minutes
  - Python pathlib Module and Dictionaries
  - Python Speed Comparison
+ - Advanced Dictionaries defaultdict
+ -
 
 ## Python-Advanced-Tutorial
 ### Source Code List
