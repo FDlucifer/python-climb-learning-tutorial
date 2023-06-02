@@ -248,6 +248,10 @@ So much thanks to neuralnine and his contribution:
  - Python pathlib Module and Dictionaries
  - Python Speed Comparison
  - Advanced Dictionaries defaultdict
+ - Convert Videos To MP3 with FFmpeg
+ - Google Calendar Automation
+ - Render Math Formulas From LaTeX
+ - Transcribe Audio Files with OpenAI Whisper
  -
 
 ## Python-Advanced-Tutorial
