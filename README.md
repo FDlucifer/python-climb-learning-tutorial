@@ -252,6 +252,7 @@ So much thanks to neuralnine and his contribution:
  - Google Calendar Automation
  - Render Math Formulas From LaTeX
  - Transcribe Audio Files with OpenAI Whisper
+ - Base64 Encoding Binary Files
  -
 
 ## Python-Advanced-Tutorial
