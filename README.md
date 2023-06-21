@@ -253,6 +253,12 @@ So much thanks to neuralnine and his contribution:
  - Render Math Formulas From LaTeX
  - Transcribe Audio Files with OpenAI Whisper
  - Base64 Encoding Binary Files
+ - Dropbox Automation For Backups
+ - MongoDB in Python
+ - Dynamic Attribute Handling in Python getattr(), setattr(), hasattr(), delattr()
+ - Generating ACTUALLY Random Numbers
+ - HTTP Status Codes Simply Explained in Flask
+ - Image Segmentation with K-Means Clustering
  -
 
 ## Python-Advanced-Tutorial
@@ -518,6 +524,7 @@ So much thanks to neuralnine and his contribution:
  - codewars 3
  - codewars 4
  - codewars 5
+ - codewars 6
 
 ## W3W3W3
 ### Source Code List
