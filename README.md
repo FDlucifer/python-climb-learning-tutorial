@@ -259,6 +259,7 @@ So much thanks to neuralnine and his contribution:
  - Generating ACTUALLY Random Numbers
  - HTTP Status Codes Simply Explained in Flask
  - Image Segmentation with K-Means Clustering
+ - Pseudo-Random Number Generator From Scratch
  -
 
 ## Python-Advanced-Tutorial
