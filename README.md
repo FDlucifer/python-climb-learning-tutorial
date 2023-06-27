@@ -260,6 +260,7 @@ So much thanks to neuralnine and his contribution:
  - HTTP Status Codes Simply Explained in Flask
  - Image Segmentation with K-Means Clustering
  - Pseudo-Random Number Generator From Scratch
+ - K-Means Clustering From Scratch (Mathematical)
  -
 
 ## Python-Advanced-Tutorial
