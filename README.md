@@ -261,6 +261,8 @@ So much thanks to neuralnine and his contribution:
  - Image Segmentation with K-Means Clustering
  - Pseudo-Random Number Generator From Scratch
  - K-Means Clustering From Scratch (Mathematical)
+ - Professional Python Testing with Mocks
+ - Matplotlib Full Python Course
  -
 
 ## Python-Advanced-Tutorial
