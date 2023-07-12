@@ -263,6 +263,7 @@ So much thanks to neuralnine and his contribution:
  - K-Means Clustering From Scratch (Mathematical)
  - Professional Python Testing with Mocks
  - Matplotlib Full Python Course
+ - Modern Machine Learning Apps with Streamlit
  -
 
 ## Python-Advanced-Tutorial
