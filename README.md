@@ -264,6 +264,8 @@ So much thanks to neuralnine and his contribution:
  - Professional Python Testing with Mocks
  - Matplotlib Full Python Course
  - Modern Machine Learning Apps with Streamlit
+ - Data Compression Algorithms
+ - How Do Random Forests Work & What is Ensemble Learning
  -
 
 ## Python-Advanced-Tutorial
