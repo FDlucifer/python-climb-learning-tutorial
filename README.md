@@ -266,6 +266,7 @@ So much thanks to neuralnine and his contribution:
  - Modern Machine Learning Apps with Streamlit
  - Data Compression Algorithms
  - How Do Random Forests Work & What is Ensemble Learning
+ - Parallel Computing with Nvidia CUDA
  -
 
 ## Python-Advanced-Tutorial
