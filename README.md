@@ -267,6 +267,8 @@ So much thanks to neuralnine and his contribution:
  - Data Compression Algorithms
  - How Do Random Forests Work & What is Ensemble Learning
  - Parallel Computing with Nvidia CUDA
+ - Automate Google Search API
+ - Financial Stock Assistant Chatbot
  -
 
 ## Python-Advanced-Tutorial
