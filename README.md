@@ -269,6 +269,8 @@ So much thanks to neuralnine and his contribution:
  - Parallel Computing with Nvidia CUDA
  - Automate Google Search API
  - Financial Stock Assistant Chatbot
+ - Finding The Optimal Number of Clusters in Machine Learning
+ - Real-Time Stock Price Tracker
  -
 
 ## Python-Advanced-Tutorial
@@ -535,6 +537,7 @@ So much thanks to neuralnine and his contribution:
  - codewars 4
  - codewars 5
  - codewars 6
+ - codewars 7
 
 ## W3W3W3
 ### Source Code List
