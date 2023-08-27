@@ -271,6 +271,7 @@ So much thanks to neuralnine and his contribution:
  - Financial Stock Assistant Chatbot
  - Finding The Optimal Number of Clusters in Machine Learning
  - Real-Time Stock Price Tracker
+ - Pretty Error Messages
  -
 
 ## Python-Advanced-Tutorial
