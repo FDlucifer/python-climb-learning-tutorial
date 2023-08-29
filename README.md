@@ -272,6 +272,7 @@ So much thanks to neuralnine and his contribution:
  - Finding The Optimal Number of Clusters in Machine Learning
  - Real-Time Stock Price Tracker
  - Pretty Error Messages
+ - Synchronize Multiple Applications with File Locks
  -
 
 ## Python-Advanced-Tutorial
