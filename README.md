@@ -273,6 +273,7 @@ So much thanks to neuralnine and his contribution:
  - Real-Time Stock Price Tracker
  - Pretty Error Messages
  - Synchronize Multiple Applications with File Locks
+ - Understanding stdin, stdout, stderr
  -
 
 ## Python-Advanced-Tutorial
