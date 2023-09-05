@@ -274,6 +274,7 @@ So much thanks to neuralnine and his contribution:
  - Pretty Error Messages
  - Synchronize Multiple Applications with File Locks
  - Understanding stdin, stdout, stderr
+ - HTTPBin - Experimenting, Debugging & Testing of Network Applications
  -
 
 ## Python-Advanced-Tutorial
