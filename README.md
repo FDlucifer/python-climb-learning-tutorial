@@ -275,6 +275,7 @@ So much thanks to neuralnine and his contribution:
  - Synchronize Multiple Applications with File Locks
  - Understanding stdin, stdout, stderr
  - HTTPBin - Experimenting, Debugging & Testing of Network Applications
+ - Python F-String Feature
  -
 
 ## Python-Advanced-Tutorial
