@@ -276,6 +276,7 @@ So much thanks to neuralnine and his contribution:
  - Understanding stdin, stdout, stderr
  - HTTPBin - Experimenting, Debugging & Testing of Network Applications
  - Python F-String Feature
+ - Advanced Serialization with dill
  -
 
 ## Python-Advanced-Tutorial
