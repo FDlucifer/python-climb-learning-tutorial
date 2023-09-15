@@ -277,6 +277,9 @@ So much thanks to neuralnine and his contribution:
  - HTTPBin - Experimenting, Debugging & Testing of Network Applications
  - Python F-String Feature
  - Advanced Serialization with dill
+ - Synchronizing Multiple Processes
+ - Inheritance Within Python Object-Oriented Programming
+ - Integration Testing For Flask Applications
  -
 
 ## Python-Advanced-Tutorial
