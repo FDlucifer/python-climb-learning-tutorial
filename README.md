@@ -280,6 +280,7 @@ So much thanks to neuralnine and his contribution:
  - Synchronizing Multiple Processes
  - Inheritance Within Python Object-Oriented Programming
  - Integration Testing For Flask Applications
+ - Graph Search Visualization in Python (BFS and DFS)
  -
 
 ## Python-Advanced-Tutorial
