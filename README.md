@@ -281,6 +281,9 @@ So much thanks to neuralnine and his contribution:
  - Inheritance Within Python Object-Oriented Programming
  - Integration Testing For Flask Applications
  - Graph Search Visualization in Python (BFS and DFS)
+ - Analytics Tracking in Web Apps with Beacons
+ - F-Strings Have A Lot of Format Modifiers
+ - Migrate SQLite Database to MySQL
  -
 
 ## Python-Advanced-Tutorial
