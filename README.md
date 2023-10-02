@@ -523,6 +523,9 @@ So much thanks to neuralnine and his contribution:
  - MapReduce Jobs For Distributed Hadoop Clusters
  - Custom MoviePy Animations
  - Create & Manage Cookies in Flask
+ - Dark Mode in Tkinter Applications Made Simple
+ - Finding Optimal Number of Features For Training AI Models
+ - Handle Cookies in Python Requests
  -
 
 ## 10 apps in Python with PySimpleGUI
