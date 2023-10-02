@@ -526,6 +526,8 @@ So much thanks to neuralnine and his contribution:
  - Dark Mode in Tkinter Applications Made Simple
  - Finding Optimal Number of Features For Training AI Models
  - Handle Cookies in Python Requests
+ - leave Nested Loops
+ - The One Invisible Byte That Can Mess Up All of Your Code
  -
 
 ## 10 apps in Python with PySimpleGUI
