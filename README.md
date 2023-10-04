@@ -528,6 +528,7 @@ So much thanks to neuralnine and his contribution:
  - Handle Cookies in Python Requests
  - leave Nested Loops
  - The One Invisible Byte That Can Mess Up All of Your Code
+ - Custom Format Specifiers
  -
 
 ## 10 apps in Python with PySimpleGUI
