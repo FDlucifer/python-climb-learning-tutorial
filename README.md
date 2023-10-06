@@ -529,6 +529,7 @@ So much thanks to neuralnine and his contribution:
  - leave Nested Loops
  - The One Invisible Byte That Can Mess Up All of Your Code
  - Custom Format Specifiers
+ - Replace print() with icecream ic()
  -
 
 ## 10 apps in Python with PySimpleGUI
