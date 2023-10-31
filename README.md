@@ -531,6 +531,8 @@ So much thanks to neuralnine and his contribution:
  - Custom Format Specifiers
  - Replace print() with icecream ic()
  - Build Machine Learning Applications Easily with Gradio
+ - Selenium Headless Scraping For Servers & Docker
+ - Building With Classes Practice
  -
 
 ## 10 apps in Python with PySimpleGUI
