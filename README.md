@@ -533,6 +533,9 @@ So much thanks to neuralnine and his contribution:
  - Build Machine Learning Applications Easily with Gradio
  - Selenium Headless Scraping For Servers & Docker
  - Building With Classes Practice
+ - Custom HTML Filters in Flask Applications
+ - Automatically Fill Word Files
+ - Matplotlib Widgets Make Your Graphs Interactive
  -
 
 ## 10 apps in Python with PySimpleGUI
