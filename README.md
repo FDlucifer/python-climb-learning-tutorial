@@ -530,6 +530,7 @@ So much thanks to neuralnine and his contribution:
  - The One Invisible Byte That Can Mess Up All of Your Code
  - Custom Format Specifiers
  - Replace print() with icecream ic()
+ - Build Machine Learning Applications Easily with Gradio
  -
 
 ## 10 apps in Python with PySimpleGUI
