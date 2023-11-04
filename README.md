@@ -536,6 +536,8 @@ So much thanks to neuralnine and his contribution:
  - Custom HTML Filters in Flask Applications
  - Automatically Fill Word Files
  - Matplotlib Widgets Make Your Graphs Interactive
+ - Cached Properties Can Massively Speed Up Your Python Code
+ - JSON Schema Validation in Python_ Bring Structure Into JSON
  -
 
 ## 10 apps in Python with PySimpleGUI
