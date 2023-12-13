@@ -538,6 +538,14 @@ So much thanks to neuralnine and his contribution:
  - Matplotlib Widgets Make Your Graphs Interactive
  - Cached Properties Can Massively Speed Up Your Python Code
  - JSON Schema Validation in Python_ Bring Structure Into JSON
+ - Advanced Python Dictionaries with Benedict
+ - Argument Parsing with argparse
+ - Auto-Stop Algorithms with Multiprocessing
+ - Coding A Simple Mastermind Game
+ - Color Schemes For Tkinter Python Applications
+ - Construction Heuristic For Traveling Salesman Problem (TSP)
+ - Finding the Current Time
+ - Graph Coloring Algorithm
  -
 
 ## 10 apps in Python with PySimpleGUI
