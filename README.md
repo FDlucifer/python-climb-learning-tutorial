@@ -546,6 +546,11 @@ So much thanks to neuralnine and his contribution:
  - Construction Heuristic For Traveling Salesman Problem (TSP)
  - Finding the Current Time
  - Graph Coloring Algorithm
+ - Mandelbrot Set Visualization
+ - Transfer Complex Python Objects via Sockets
+ - Pagination in Flask Split Your Data Into Pages
+ - Speed Up Data Processing with Apache Parquet
+ - Test-Driven Development
  -
 
 ## 10 apps in Python with PySimpleGUI

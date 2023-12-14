@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <title>my pagination app</title>
+    </head>
+    <body>
+        <ul>
+            {% for item in items_on_page %}
+            <li>{{item}}</li>
+            {% endfor %}
+        </ul>
+            {% if page > 1 %}
+            <a href="{{ url_for('index', page=page-1) }}">previous</a>
+            {% endif %}
+            <span>page {{page}} of {{total_pages}}</span>
+            {% if page < total_pages %}
+            <a href="{{ url_for('index', page=page+1) }}">next</a>
+            {% endif %}
+    </body>
+</html>
