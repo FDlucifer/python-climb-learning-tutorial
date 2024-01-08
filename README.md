@@ -556,6 +556,9 @@ So much thanks to neuralnine and his contribution:
  - Massive Python Speed-Up Caching Across Sessions
  - Run R Code in Python with rpy2
  - shutil The Ultimate Python File Management Toolkit
+ - Simple OCR in Python with easyocr
+ - Structural Pattern Matching
+ - Virtual Displays
  -
 
 ## 10 apps in Python with PySimpleGUI
