@@ -551,6 +551,11 @@ So much thanks to neuralnine and his contribution:
  - Pagination in Flask Split Your Data Into Pages
  - Speed Up Data Processing with Apache Parquet
  - Test-Driven Development
+ - Garbage Collection
+ - GUI Applications For All Platforms with Flet
+ - Massive Python Speed-Up Caching Across Sessions
+ - Run R Code in Python with rpy2
+ - shutil The Ultimate Python File Management Toolkit
  -
 
 ## 10 apps in Python with PySimpleGUI
