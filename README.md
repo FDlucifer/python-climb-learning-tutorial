@@ -563,6 +563,9 @@ So much thanks to neuralnine and his contribution:
  - Generate LLM
  - HTTPS & Certificates in Flask Web Applications
  - Matplotlib Visualizations in Tkinter GUI Apps
+ - Memory Profiling
+ - Rock Paper Scissors Game
+ - What are __slots__ in Python
  -
 
 ## 10 apps in Python with PySimpleGUI

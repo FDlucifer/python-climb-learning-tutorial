@@ -1,0 +1,12 @@
+Filename: main.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+     7     42.4 MiB     42.4 MiB           1   @profile(stream=log_file)
+     8                                         def myfunction(list_size):
+     9     50.0 MiB      7.6 MiB           1       mylist = ['hello'] * list_size
+    10     57.7 MiB      7.6 MiB           1       mylist2 = ['world'] * list_size
+    11     50.0 MiB     -7.6 MiB           1       del mylist2
+    12     50.0 MiB      0.0 MiB           1       return mylist
+
+
