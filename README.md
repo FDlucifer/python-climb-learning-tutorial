@@ -559,6 +559,10 @@ So much thanks to neuralnine and his contribution:
  - Simple OCR in Python with easyocr
  - Structural Pattern Matching
  - Virtual Displays
+ - Calculator App For All Platforms
+ - Generate LLM
+ - HTTPS & Certificates in Flask Web Applications
+ - Matplotlib Visualizations in Tkinter GUI Apps
  -
 
 ## 10 apps in Python with PySimpleGUI
