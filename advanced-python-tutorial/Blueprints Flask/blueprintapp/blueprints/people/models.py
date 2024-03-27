@@ -10,7 +10,7 @@ class Person(db.Model):
     job = db.Column(db.String)
 
     def __repr__(self):
-        return f"<PERSON {self.name}, AGE: {self.age}>"
+        return f"<pid {self.pid}, PERSON {self.name}, AGE: {self.age}>, job: {self.job}>"
 
     def get_id(self):
         return self.tid
