@@ -566,6 +566,7 @@ So much thanks to neuralnine and his contribution:
  - Memory Profiling
  - Rock Paper Scissors Game
  - What are __slots__ in Python
+ - Blueprints Flask
  -
 
 ## 10 apps in Python with PySimpleGUI

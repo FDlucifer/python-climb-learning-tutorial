@@ -1,0 +1,18 @@
+{% extends "base.html" %}
+{% block title %}people{% endblock %}
+
+{% block content %}
+    <!-- <h1>create todo</h1>
+    <form action="{{ url_for('todos.create') }}" method="POST">
+        <input type="text" name="title" placeholder="Title" required="required">
+        <input type="text" name="description" placeholder="Description">
+        <input type="checkbox" name="done"> Done
+        <input type="submit" value="Create">
+    </form> -->
+    <ul>
+    {% for person in people %}
+        <li>{{ person }}</li>
+    {% endfor %}
+    </ul>
+    <a href="{{ url_for('people.create') }}">Create</a>
+{% endblock %}
