@@ -1,0 +1,8 @@
+{
+    "foreground": "black",
+    "background": "white",
+    "font": "Helvetica",
+    "fontsize": 12,
+    "messagebox_fg": "black",
+    "messagebox_bg": "white"
+}

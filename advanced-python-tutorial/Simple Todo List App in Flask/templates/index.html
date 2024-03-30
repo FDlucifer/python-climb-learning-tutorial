@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <title>luci11 todo app</title>
+    </head>
+    <body>
+        <h1>hello world!!!</h1>
+        <ul>
+            {% for todo in todos %}
+            <li>
+                <input type="checkbox" name="done" {% if todo['done'] %} checked {% endif %} disabled onchange="this.form.submit()">
+                <span {%if todo['done'] %} style="text-decoration: line-through" {% endif %}>{{ todo['task'] }}</span>
+                <a href="{{ url_for('check', index=loop.index0) }}">check</a>
+                <a href="{{ url_for('edit', index=loop.index0) }}">edit</a>
+                <a href="{{ url_for('delete', index=loop.index0) }}">delete</a>
+            </li>
+            {% endfor %}
+        </ul>
+        <form action="{{ url_for('add') }}" method="post">
+            <input type="text" name="todo">
+            <button type="submit">add todo</button>
+        </form>
+    </body>
+</html>
+

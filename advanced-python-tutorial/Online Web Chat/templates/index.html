@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>title</title>
+</head>
+<body>
+<script type="text/javascript">
+    $(document).ready(function() {
+        var socket = io.connect("http://localhost:5000")
+        socket.on('connect', function() {
+            socket.send("User connected!")
+        });
+
+        socket.on('message', function(data) {
+            $('#messages').append($('<p>').text(data));
+        });
+
+        $('#sendBtn').on('click', function () {
+            socket.send($('#username').val() + ': ' + $('#message').val());
+            $('#message').val('');
+        });
+    })
+</script>
+<div id="messages">
+
+</div>
+<input type="text" id="username" placeholder="Username">
+<input type="text" id="message" placeholder="Message">
+<button id="sendBtn">Send</button>
+</body>
+</html>

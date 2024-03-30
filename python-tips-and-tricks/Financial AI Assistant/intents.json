@@ -1,0 +1,35 @@
+{"intents": [
+    {"tag": "greetings",
+        "patterns": ["hey", "hello", "what's up?", "hi"],
+        "responses": ["hello sir!", "hey florian!"]
+    },
+    {"tag": "plot_chart",
+        "patterns": ["i want you to plot a stock price!", "please plot a chart", "plot a chart"],
+        "responses": ["plotting chart"]
+    },
+    {"tag": "add_portfolio",
+        "patterns": ["add a stock to my portfolio", "add a stock", "add a stock to my lists"],
+        "responses": ["adding stock"]
+    },
+    {"tag": "remove_portfolio",
+        "patterns": ["remove a stock to my portfolio", "remove a stock", "remove a stock to my lists"],
+        "responses": ["removing stock"]
+    },
+    {"tag": "show_portfolio",
+        "patterns": ["show me my investments", "show me my portfolio", "tell me about my portfolio"],
+        "responses": ["showing portfolio"]
+    },
+    {"tag": "stock_price",
+        "patterns": ["nosense"],
+        "responses": ["i want to known the price of a stock!", "show me the price of a stock!"]
+    },
+    {"tag": "portfolio_gains",
+        "patterns": ["how is my portfolio performing?", "how are my gains?", "Am i in the portfolio?"],
+        "responses": ["portfolio gains"]
+    },
+    {"tag": "bye",
+        "patterns": ["bye", "goodbye", "stop", "i have to go", "end"],
+        "responses": ["goodbye"]
+    }
+]
+}

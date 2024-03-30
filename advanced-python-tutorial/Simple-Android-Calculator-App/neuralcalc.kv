@@ -1,0 +1,98 @@
+<MyRoot>
+
+    calc_field: calc_field
+
+    orientation: 'vertical'
+    TextInput:
+        id: calc_field
+        size_hint: (1, 0.3)
+        readonly: True
+        disabled: True
+        font_size: 64
+    GridLayout:
+        rows: 4
+        columns: 4
+        padding: 10
+        spacing: 10
+        size_hint: (1, 0.5)
+        Button:
+            text: "1"
+            font_size: 26
+            on_press: root.calc_symbol('1')
+        Button:
+            text: "2"
+            font_size: 26
+            on_press: root.calc_symbol('2')
+        Button:
+            text: "3"
+            font_size: 26
+            on_press: root.calc_symbol('3')
+        Button:
+            text: "+"
+            font_size: 26
+            on_press: root.calc_symbol('+')
+        Button:
+            text: "4"
+            font_size: 26
+            on_press: root.calc_symbol('4')
+        Button:
+            text: "5"
+            font_size: 26
+            on_press: root.calc_symbol('5')
+        Button:
+            text: "6"
+            font_size: 26
+            on_press: root.calc_symbol('6')
+        Button:
+            text: "-"
+            font_size: 26
+            on_press: root.calc_symbol('-')
+        Button:
+            text: "7"
+            font_size: 26
+            on_press: root.calc_symbol('7')
+        Button:
+            text: "8"
+            font_size: 26
+            on_press: root.calc_symbol('8')
+        Button:
+            text: "9"
+            font_size: 26
+            on_press: root.calc_symbol('9')
+        Button:
+            text: "*"
+            font_size: 26
+            on_press: root.calc_symbol('*')
+        Button:
+            text: "("
+            font_size: 26
+            on_press: root.calc_symbol('(')
+        Button:
+            text: "0"
+            font_size: 26
+            on_press: root.calc_symbol('0')
+        Button:
+            text: ")"
+            font_size: 26
+            on_press: root.calc_symbol(')')
+        Button:
+            text: "/"
+            font_size: 26
+            on_press: root.calc_symbol('/')
+    BoxLayout:
+        orientation: 'horizontal'
+        padding: 7
+        spacing: 7
+        size_hint: (1, 0.2)
+        Button:
+            text: "."
+            font_size: 26
+            on_press: root.calc_symbol('.')
+        Button:
+            text: "c"
+            font_size: 26
+            on_press: root.clear()
+        Button:
+            text: "="
+            font_size: 26
+            on_press: root.get_result()

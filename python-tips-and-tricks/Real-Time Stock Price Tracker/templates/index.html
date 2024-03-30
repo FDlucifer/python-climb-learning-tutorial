@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <title>stock price tracker</title>
+        <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+        <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+        <script src="{{ url_for('static', filename='script.js') }}"></script>
+    </head>
+    <body>
+        <form id="add-ticker-form">
+            <input type="text" id="new-ticker" placeholder="add ticker" required>
+            <button type="submit">add</button>
+        </form>
+        <p id="timer">next update in <span id="counter"></span> seconds.</p>
+        <div id="tickers-grid"></div>
+    </body>
+</html>

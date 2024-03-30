@@ -1,0 +1,18 @@
+<MyRoot>:
+    random_label: random_label
+
+    BoxLayout:
+        orientation: 'vertical'
+        Label:
+            text: "NeuralRandom"
+            font_size: 64
+            color: 0.92, 0.45, 0
+        Label:
+            id: random_label
+            text: "-"
+            font_size: 64
+        Button:
+            text: "Generate"
+            font_size: 32
+            size: 100, 50
+            on_press: root.generate_number()

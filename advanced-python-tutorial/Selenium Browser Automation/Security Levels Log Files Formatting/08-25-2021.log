@@ -1,0 +1,7 @@
+hey i am warning
+2021-08-25 06:57:05,788: WARNING - hey i am warning
+2021-08-25 06:57:05,788: ERROR - hey i am error
+2021-08-25 06:57:05,789: CRITICAL - hey i am critical
+2021-08-25 06:57:19,624: WARNING - hey i am warning
+2021-08-25 06:57:19,625: ERROR - hey i am error
+2021-08-25 06:57:19,625: CRITICAL - hey i am critical

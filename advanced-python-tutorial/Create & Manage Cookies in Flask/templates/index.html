@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>hello world</title>
+</head>
+<body>
+    <h2>hello {{ saved_name if saved_name is not none else "stranger" }}!</h2>
+    <a href="/delete_cookie">delete name cookie</a>
+    <br><br>
+    <form action="/save_name" method="POST">
+        <input type="text" name="name" placeholder="your name">
+        <input type="submit" value="save name">
+    </form>
+</body>
+</html>

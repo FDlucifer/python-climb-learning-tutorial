@@ -1,0 +1,3 @@
+https://www.kaggle.com/datasets/piyushjain16/amazon-product-data
+https://www.kaggle.com/datasets/glushko/seth-godins-blogs-dataset
+

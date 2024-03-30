@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <title>time tracking app</title>
+        <script type="text/javascript">
+            let startTime = Date.now();
+            window.addEventListener("beforeunload", function() {
+                let endTime = Date.now();
+                let timeSpent = endTime - startTime;
+                let url = "{{ url_for('track_time') }}";
+                let data = new Blob([JSON.stringify({
+                    endpoint: window.location.pathname,
+                    time: timeSpent
+                })], { 'type': 'application/json' });
+                navigator.sendBeacon(url, data);
+            })
+        </script>
+    </head>
+    <body>
+        <nav>
+            <ul>
+                <a href="{{ url_for('index') }}"><li>index</li></a>
+                <a href="{{ url_for('endpoint_a') }}"><li>a</li></a>
+                <a href="{{ url_for('endpoint_b') }}"><li>b</li></a>
+            </ul>
+        </nav>
+        {% block content %}
+        {% endblock %}
+    </body>
+</html>

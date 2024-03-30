@@ -1,0 +1,34 @@
+{
+    "people":[
+        {
+            "id": 1,
+            "name": "mike",
+            "age": 25,
+            "gender": "M"
+        },
+        {
+            "id": 2,
+            "name": "alice",
+            "age": 30,
+            "gender": "f"
+        },
+        {
+            "id": 3,
+            "name": "john",
+            "age": 75,
+            "gender": "M"
+        },
+        {
+            "id": 4,
+            "name": "bob",
+            "age": 30,
+            "gender": "M"
+        },
+        {
+            "id": 5,
+            "name": "susan",
+            "age": 40,
+            "gender": "f"
+        }
+    ]
+}

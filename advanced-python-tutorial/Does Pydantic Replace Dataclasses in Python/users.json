@@ -1,0 +1,37 @@
+[
+    {
+        "username": "testuser",
+        "password": "123casjdUCD.",
+        "age": "10",
+        "score": "1000",
+        "email": "test@test.com"
+    },
+    {
+        "username": "luci",
+        "password": "123casjdUCD.",
+        "age": "23",
+        "score": "1000",
+        "email": "luci@luci.com"
+    },
+    {
+        "username": "fddfd",
+        "password": "123casjdUCD.",
+        "age": "10",
+        "score": "434",
+        "email": "fddfd@fddfd.com"
+    },
+    {
+        "username": "fd",
+        "password": "123casjdUCD.",
+        "age": "104",
+        "score": "1000",
+        "email": "fd@fd.com"
+    },
+    {
+        "username": "11",
+        "password": "123casjdUCD.",
+        "age": "120",
+        "score": "1000",
+        "email": "11@11.com"
+    }
+]
