@@ -571,6 +571,7 @@ So much thanks to neuralnine and his contribution:
  - Automatically Fill PDF Forms
  - Collatz Sequence
  - Cookie Handling For Selenium Web Scraping
+ - Databases & SQLAlchemy
  -
 
 ## 10 apps in Python with PySimpleGUI
