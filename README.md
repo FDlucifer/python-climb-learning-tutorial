@@ -568,6 +568,9 @@ So much thanks to neuralnine and his contribution:
  - What are __slots__ in Python
  - Blueprints Flask
  - Simple Search Engine
+ - Automatically Fill PDF Forms
+ - Collatz Sequence
+ - Cookie Handling For Selenium Web Scraping
  -
 
 ## 10 apps in Python with PySimpleGUI
