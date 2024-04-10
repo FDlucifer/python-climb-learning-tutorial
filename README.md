@@ -572,6 +572,8 @@ So much thanks to neuralnine and his contribution:
  - Collatz Sequence
  - Cookie Handling For Selenium Web Scraping
  - Databases & SQLAlchemy
+ - Export SQL Tables To Excel
+ - First Flask Project
  -
 
 ## 10 apps in Python with PySimpleGUI
