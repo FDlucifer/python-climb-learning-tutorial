@@ -574,6 +574,9 @@ So much thanks to neuralnine and his contribution:
  - Databases & SQLAlchemy
  - Export SQL Tables To Excel
  - First Flask Project
+ - Genetic Algorithms
+ - Limit Calculator App
+ - Machine Learning Model Explainability with LIME
  -
 
 ## 10 apps in Python with PySimpleGUI
