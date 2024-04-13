@@ -577,6 +577,11 @@ So much thanks to neuralnine and his contribution:
  - Genetic Algorithms
  - Limit Calculator App
  - Machine Learning Model Explainability with LIME
+ - Natural Sorting with natsort
+ - Polar Plots
+ - Probability Calibration For Machine Learning
+ - Regular Expression Checker
+ - Responsive Tkinter GUIs
  -
 
 ## 10 apps in Python with PySimpleGUI
