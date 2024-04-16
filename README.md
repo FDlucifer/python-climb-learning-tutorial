@@ -584,6 +584,10 @@ So much thanks to neuralnine and his contribution:
  - Responsive Tkinter GUIs
  - Cellular Automata
  - Creating APIs For Machine Learning Models with FastAPI
+ - Creating QR Codes
+ - Flask Project_ Site Connectivity Checker
+ - Routes & URLs
+ - Schedule Automatic Tasks in Flask with APScheduler
  -
 
 ## 10 apps in Python with PySimpleGUI

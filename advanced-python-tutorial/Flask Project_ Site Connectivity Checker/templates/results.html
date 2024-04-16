@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <title>site connectivity checker</title>
+    </head>
+    <body>
+        <h2>site connectivity checker</h2>
+        {% if status == 'UP' %}
+            <p style="color: green">the site {{ url }} is <strong>UP</strong></p>
+        {% else %}
+            <p style="color: red">the site {{ url }} is <strong>DOWN</strong></p>
+        {% endif %}
+    </body>
+</html>

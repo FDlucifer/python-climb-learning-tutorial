@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <title>site connectivity checker</title>
+    </head>
+    <body>
+        <h2>site connectivity checker</h2>
+        <form action="{{ url_for('check') }}" method="POST">
+            <input type="text" name="url" placeholder="enter url" required="required">
+            <input type="submit" value="Check">
+        </form>
+    </body>
+</html>
