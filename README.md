@@ -582,6 +582,8 @@ So much thanks to neuralnine and his contribution:
  - Probability Calibration For Machine Learning
  - Regular Expression Checker
  - Responsive Tkinter GUIs
+ - Cellular Automata
+ - Creating APIs For Machine Learning Models with FastAPI
  -
 
 ## 10 apps in Python with PySimpleGUI
