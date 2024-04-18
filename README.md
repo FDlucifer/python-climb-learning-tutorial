@@ -588,6 +588,7 @@ So much thanks to neuralnine and his contribution:
  - Flask Project_ Site Connectivity Checker
  - Routes & URLs
  - Schedule Automatic Tasks in Flask with APScheduler
+ - Sessions & Cookies
  -
 
 ## 10 apps in Python with PySimpleGUI

@@ -1,0 +1,15 @@
+{% extends "base.html" %}
+{% block title %}index page{% endblock %}
+
+{% block content %}
+    <h1>hello wolrd</h1>
+    <p>{{ message }}</p>
+
+    <a href="{{ url_for('set_data') }}">set session data</a><br>
+    <a href="{{ url_for('get_data') }}">get session data</a><br>
+    <a href="{{ url_for('clear_session') }}">clear session data</a><br>
+    <a href="{{ url_for('set_cookie') }}">set cookie</a><br>
+    <a href="{{ url_for('get_cookie') }}">get cookie</a><br>
+    <a href="{{ url_for('remove_cookie') }}">remove cookie</a><br>
+    <a href="{{ url_for('login') }}">login</a><br>
+{% endblock %}
