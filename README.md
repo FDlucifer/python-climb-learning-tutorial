@@ -589,6 +589,8 @@ So much thanks to neuralnine and his contribution:
  - Routes & URLs
  - Schedule Automatic Tasks in Flask with APScheduler
  - Sessions & Cookies
+ - Download Kaggle Datasets via API
+ - GIF Maker
  -
 
 ## 10 apps in Python with PySimpleGUI
