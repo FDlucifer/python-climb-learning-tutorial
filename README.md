@@ -591,6 +591,8 @@ So much thanks to neuralnine and his contribution:
  - Sessions & Cookies
  - Download Kaggle Datasets via API
  - GIF Maker
+ - Parameters in Python Functions
+ - Watermarking Images Automation
  -
 
 ## 10 apps in Python with PySimpleGUI
