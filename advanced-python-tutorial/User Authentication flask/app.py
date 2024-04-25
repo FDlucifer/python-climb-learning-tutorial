@@ -25,7 +25,7 @@ def create_app():
 
     @login_manager.unauthorized_handler
     def unauthorized_callback():
-        return redirect(url_for('index'))
+        return redirect(url_for("index"))
 
     bcrypt = Bcrypt(app)
 
