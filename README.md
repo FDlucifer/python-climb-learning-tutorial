@@ -593,6 +593,9 @@ So much thanks to neuralnine and his contribution:
  - GIF Maker
  - Parameters in Python Functions
  - Watermarking Images Automation
+ - Tkinter Layout managers
+ - User Authentication flask
+ - Tic-Tac-Toe Game Unbeatable Minimax AI
  -
 
 ## 10 apps in Python with PySimpleGUI

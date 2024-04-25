@@ -1,0 +1,11 @@
+{% extends "base.html" %}
+{% block title %}Index{% endblock %}
+
+{% block content %}
+<h1>sign up Page</h1>
+    <form action="{{ url_for('signup') }}" method="POST">
+        <input type="text" name="username" placeholder="Username" required="required"><br>
+        <input type="password" name="password" placeholder="Password" required="required"><br>
+        <input type="submit" value="Sign Up">
+    </form>
+{% endblock %}
