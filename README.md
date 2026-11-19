@@ -1,5 +1,13 @@
 ## Python-Climb-Learning-Tutorial
 
+## 中文阅读导引
+
+这是持续积累的 Python、C 与 C++ 学习记录，不是统一打包、统一验证的课程或应用。下文保留原始教程清单与 NeuralNine 等来源署名。
+
+建议从语言基础、数据结构或数据分析主题中选一个小问题，先写下预期结果，再对照示例理解；不要把全部目录当作需要批量运行的项目。学习记录可分别标注“已阅读”“已验证”“待确认”，避免把历史示例误当作当前环境保证。
+
+详细学习顺序与记录模板见 [中文学习指南](LEARNING_GUIDE.zh-CN.md)。
+
 This is my python climb learning road, I followed neuralnine's youtube vedio and write the following code down below...
 
 And there are also some c++ beginer tutorial by neuralnine...
